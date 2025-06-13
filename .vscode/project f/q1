@@ -1,0 +1,12 @@
+select *,
+company.name  
+from job_postings_fact
+
+left join company_dim as company 
+on job_postings_fact.company_id = company.company_id
+
+where job_title_short = 'Data Analyst'
+and job_location = 'Anywhere'
+and salary_year_avg is not null
+order by salary_year_avg desc
+limit 10;
