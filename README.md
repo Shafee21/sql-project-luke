@@ -15,7 +15,7 @@ The dataset and Luke Barousse's [SQL Course](https://lukebarousse.com/sql).
 ## 🛠 Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
-- **SQL**: The code of my analysis, allowing me to query the database to achieve critical insights.
-- **PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
-- **Visual Studio Code**: My go-to for database management and executing SQL queries.
-- **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+- **SQL**: The software of my analysis, allowing me to query the database to achieve critical insights.
+- **PostgreSQL**: This was the database management system that Luke Barousse chose to use which was perfect for handling the job posting data.
+- **Visual Studio Code**: The projects chosen database management and executing SQL queries.
+- **Git & GitHub**: Essential for sharing my SQL scripts and analysis, ensuring I could show others what I have been trying to develop in my free time and essentially share to LinkedIn
