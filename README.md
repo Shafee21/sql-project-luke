@@ -55,5 +55,9 @@ This query outputs the top 10 jobs by salary with the highest salary at $650000 
 In 2023, the top data analyst jobs showcase impressive earning potential, with salaries ranging from \$184,000 to \$650,000 annually. These high-paying roles are offered by well-known companies such as SmartAsset, Meta, and AT\&T, indicating strong demand for data analysts across various industries. The job titles also reflect significant diversity, spanning from entry-level Data Analyst positions to senior roles like Director of Analytics, highlighting the wide array of career paths and specializations available within the field of data analytics.
 
 ### 2. Top Paying Data Analyst Jobs
-By left joining the skills table to the jobs posting table, we were then able to see the skills required for those roles and start to infer the more valuable skills for data analytics.
+This SQL query identifies the top 10 highest-paying data analyst jobs and shows the skills linked to each one by joining the job and skill tables. Every job already has related skills stored in a separate table, and the query brings them together to display job titles, companies, salaries, and their required skills.
+
+![image](https://github.com/user-attachments/assets/c662440c-e3e5-4809-a650-689aed4fd3b0)
+
+ By counting how often each skill appears in the results, **SQL** is the most in-demand (8 times), followed by **Python** (7 times), and **Tableau** (6 times). Other important skills like **R**, **Snowflake**, **Pandas**, and **Excel** also show up, helping us understand which skills are most valued in these high-paying roles.
 
