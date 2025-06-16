@@ -49,7 +49,9 @@ order by
 
 limit 10;
 ```
-![image](https://github.com/user-attachments/assets/b0863d31-a043-43a8-885c-14d783fa5095)
+![image](https://github.com/user-attachments/assets/5e53b33d-18b7-49ca-b2f0-4d101ec591fc)
+This query outputs the top 10 jobs by salary with the highest salary at $650000 - the data analyst role posted by Mantys 
+
 From the results we can SEE
 
 
