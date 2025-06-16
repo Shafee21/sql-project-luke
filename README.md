@@ -3,7 +3,7 @@
 This dataset provided in Luke Barousse's SQL for Data Analytics course contains data on a collection of hiring posts for data analytic roles including job title, location, salary and skills. The goal in this guided project is to analyse the dataset to answer question like what are the top paying skills? I chose this project to help develop my SQL knowledge in a practical environment whilst also gaining an introduction to git and github
 
 # background
-The dataset and Luke Barousse's [SQL Course](https://lukebarousse.com/sql). 
+The dataset and Luke Barousse's [SQL Course](https://lukebarousse.com/sql) covering jobs posted over 2023. 
 
 # To be exact the questions I wanted to answer through SQL queries were:  
 1. What are the top-paying data analyst jobs?  
