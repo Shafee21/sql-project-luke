@@ -49,3 +49,7 @@ order by
 
 limit 10;
 ```
+![image](https://github.com/user-attachments/assets/b0863d31-a043-43a8-885c-14d783fa5095)
+From the results we can SEE
+
+
