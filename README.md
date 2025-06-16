@@ -19,3 +19,9 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **PostgreSQL**: This was the database management system that Luke Barousse chose to use which was perfect for handling the job posting data.
 - **Visual Studio Code**: The projects chosen database management and executing SQL queries.
 - **Git & GitHub**: Essential for sharing my SQL scripts and analysis, ensuring I could show others what I have been trying to develop in my free time and essentially share to LinkedIn
+
+# The Analysis
+
+### 1. Top Paying Data Analyst Jobs
+
+Data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
