@@ -71,3 +71,15 @@ We can infer from the results that, While programming and data visualization too
 ### 4. Skills Based on Salary
 This query finds the average salaries associated with skills
 ![image](https://github.com/user-attachments/assets/d1d55624-e0a0-4a43-9a38-8caccbcad34d)
+
+The data shows us that top-paying roles for data analysts often require more advanced and technical skill sets.
+
+We see that big data and machine learning expertise stands out, with tools like Jupyter, DataRobot, and Python libraries (such as Pandas and NumPy) being linked to higher salaries. This highlights the growing value of predictive analytics and large-scale data processing.
+
+There’s also a clear trend toward the importance of software development and deployment skills. Tools like GitHub, Docker, and Airflow suggest a crossover between data analysis and engineering, with higher pay associated with the ability to automate and manage data pipelines.
+
+Finally, cloud computing knowledge—using platforms like Google Cloud, Databricks, or Elasticsearch—emerges as a strong salary driver. This reflects the industry's shift toward cloud-based analytics environments and the premium placed on those who can navigate them confidently.
+
+### 5. Most Optimal Skills to Learn
+By combining the insights from section 3 (In-Demand Skills) and section 4 (Skills Based on Salary), we can identify the skills that are not only highly sought after but also come with strong earning potential. This offers a focused and strategic guide for choosing which skills to develop next.
+
