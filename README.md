@@ -68,3 +68,6 @@ This query shows the top 5 skills that are asked for the most in job ads, helpin
 
 We can infer from the results that, While programming and data visualization tools like Python, Tableau, and Power BI play a crucial role in helping analysts turn complex data into clear insights, it's equally important not to overlook the basics. Foundational skills such as SQL and Excel remain essential, forming the backbone of data processing and organization. Together, these skills ensure that data analysts can not only interpret and present data effectively but also handle and prepare it with accuracy from the ground up.
 
+### 4. Skills Based on Salary
+This query finds the average salaries associated with skills
+![image](https://github.com/user-attachments/assets/d1d55624-e0a0-4a43-9a38-8caccbcad34d)
