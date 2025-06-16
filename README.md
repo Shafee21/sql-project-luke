@@ -26,7 +26,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 Data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
-'''sql
+```sql
 select  job_id,
     job_title,
     job_location,
@@ -48,4 +48,4 @@ order by
    salary_year_avg desc
 
 limit 10;
-'''
+```
