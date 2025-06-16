@@ -62,7 +62,9 @@ This SQL query identifies the top 10 highest-paying data analyst jobs and shows 
  By counting how often each skill appears in the results, **SQL** is the most in-demand (8 times), followed by **Python** (7 times), and **Tableau** (6 times). Other important skills like **R**, **Snowflake**, **Pandas**, and **Excel** also show up, helping us understand which skills are most valued in these high-paying roles.
 
 ### 3. Skills that are most in demand
-This query shows which skills are asked for the most in job ads, helping people know what to focus on learning.
+This query shows the top 5 skills that are asked for the most in job ads, helping people know what to focus on learning.
 
 ![image](https://github.com/user-attachments/assets/9cf07a53-0f2d-4942-8070-27fbcdfde207)
+
+We can infer from the results that, While programming and data visualization tools like Python, Tableau, and Power BI play a crucial role in helping analysts turn complex data into clear insights, it's equally important not to overlook the basics. Foundational skills such as SQL and Excel remain essential, forming the backbone of data processing and organization. Together, these skills ensure that data analysts can not only interpret and present data effectively but also handle and prepare it with accuracy from the ground up.
 
